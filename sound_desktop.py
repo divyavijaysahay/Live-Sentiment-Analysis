@@ -50,3 +50,5 @@ def sound_desktop():
     wf.writeframes(b''.join(frames))
     wf.close()
     # return wf
+
+sound_desktop()
