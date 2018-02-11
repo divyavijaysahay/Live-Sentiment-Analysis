@@ -13,7 +13,7 @@ import sys
     # if user presses done, stop stream and close the recording
 
 
-def recorder():
+def sound_desktop():
     CHUNK = 1024
     FORMAT = pyaudio.paInt16
     CHANNELS = 1
