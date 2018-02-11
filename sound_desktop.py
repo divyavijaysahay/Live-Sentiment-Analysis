@@ -49,4 +49,4 @@ def recorder():
     wf.setframerate(RATE)
     wf.writeframes(b''.join(frames))
     wf.close()
-    return wf
+    # return wf
