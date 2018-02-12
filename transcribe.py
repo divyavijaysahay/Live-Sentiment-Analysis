@@ -14,7 +14,7 @@ import io
 import indicoio
 
 #record to file?
-indicoio.config.api_key = "6e20bd4ee1b0be47f25d0f227578fd14"
+indicoio.config.api_key = "<Your indico key>"
 
 
 
