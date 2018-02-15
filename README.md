@@ -2,6 +2,11 @@
 Mobile and Desktop Application
 Analyze facial features of individuals and audiences and shows their emotion on a scale of 0 to 1. Desktop features voice-to-text recognition by recording audio and then converting to text. Then performs sentiment analysis and outputs your sentiment on a scale of 0 to 1.
 
+# Mobile App
+* Multiple Face scan and live reaction analysis:
+
+![Multiple Face scan](https://raw.githubusercontent.com/divyavijaysahay/Sentiment-analysis/master/Screenshot_app.pnga)
+
 ## Applications:
 * Psychiatrist consultation to gather data on a patient's current well-being
 * Gauging an audience/crowd reaction
