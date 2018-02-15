@@ -8,6 +8,8 @@ Analyze facial features of individuals and audiences and shows their emotion on 
 * Multiple face scan and live sentiment analysis from their reactions:
 <img src="https://github.com/divyavijaysahay/Sentiment-analysis/blob/master/Screenshot_app.png" height="480" width="320">
 
+<a href="https://ibb.co/niTzbS"><img src="https://thumb.ibb.co/niTzbS/Screenshot_app.png" alt="Multiple face scan" border="0" width="320" height="480"></a>
+
 ## Applications
 * Psychiatrist consultation to gather data on a patient's current well-being
 * Gauging an audience/crowd reaction
