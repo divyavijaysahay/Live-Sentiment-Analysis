@@ -6,7 +6,7 @@ Analyze facial features of individuals and audiences and shows their emotion on 
 ## Mobile App
 
 * Multiple face scan and live sentiment analysis from their reactions:
-<img src="https://github.com/divyavijaysahay/Sentiment-analysis/blob/master/Screenshot_app.png" height="480" width="320">
+<img src="https://github.com/divyavijaysahay/Sentiment-analysis/blob/master/Screenshot_app.png" height="480" width="480">
 
 
 ## Applications
